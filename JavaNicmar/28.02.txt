@@ -1,0 +1,26 @@
+server
+domain
+https
+http 
+web server
+what is frontend frameworks
+scripting and programming languages
+backend frameworks
+javascript and java
+http status
+database mongodb
+
+java lts java 17
+jvm abstract machine loads java byte code, verifies the byte code, interpretes / compile byte code into machine code jit, garbage collection
+jre is a package
+jdk
+
+local variable, static , instance
+variable types
+
+data types
+leetcode 2 problems
+java keywords
+cast typecasting
+jvm,j
+
